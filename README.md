@@ -16,7 +16,8 @@ This dashboard analyzes Tesla’s stock performance from 2018 to 2022. It highli
 - Data Visualization Techniques
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](<img width="879" height="476" alt="Screenshot 2026-02-11 155742" src="https://github.com/user-attachments/assets/b0c6b474-ce21-4130-8588-075cfb59e74d" />
+)
 
 
 
